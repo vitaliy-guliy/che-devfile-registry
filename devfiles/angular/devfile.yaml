@@ -12,6 +12,7 @@ components:
   -
     type: chePlugin
     id: che-incubator/typescript/latest
+    registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
   -
     type: dockerimage
     alias: nodejs

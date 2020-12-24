@@ -13,11 +13,13 @@ components:
 -
   type: chePlugin
   id: bmewburn/vscode-intelephense-client/latest
-  memoryLimit: 1Gi
+  registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+  # memoryLimit: 1Gi
 -
   type: chePlugin
   id: felixfbecker/php-debug/latest
-  memoryLimit: 256Mi
+  registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+  # memoryLimit: 256Mi
 -
   type: dockerimage
   alias: php

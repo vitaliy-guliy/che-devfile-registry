@@ -20,8 +20,9 @@ components:
 -
   type: chePlugin
   id: golang/go/latest
+  registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
   alias: go-plugin
-  memoryLimit: 512Mi
+  # memoryLimit: 512Mi
   env:
     - value: 'off'
       name: GO111MODULE

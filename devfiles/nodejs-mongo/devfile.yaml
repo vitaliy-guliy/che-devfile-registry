@@ -12,12 +12,12 @@ components:
   -
     type: chePlugin
     id: che-incubator/typescript/latest
-    registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+    registryUrl: 'https://pr-check-774-alpine-che-plugin-registry.surge.sh/v3'
     # memoryLimit: 512Mi
   - 
     type: chePlugin
     id: ms-vscode/node-debug2/latest
-    registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+    registryUrl: 'https://pr-check-774-alpine-che-plugin-registry.surge.sh/v3'
     preferences:
       debug.node.useV3: false
   -

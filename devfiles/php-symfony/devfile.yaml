@@ -13,12 +13,12 @@ components:
 -
   type: chePlugin
   id: bmewburn/vscode-intelephense-client/latest
-  registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+  registryUrl: 'https://pr-check-774-alpine-che-plugin-registry.surge.sh/v3'
   # memoryLimit: 1Gi
 -
   type: chePlugin
   id: felixfbecker/php-debug/latest
-  registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+  registryUrl: 'https://pr-check-774-alpine-che-plugin-registry.surge.sh/v3'
   # memoryLimit: 256Mi
 -
   type: dockerimage

@@ -17,7 +17,7 @@ components:
   -
     type: chePlugin
     id: rust-lang/rust/latest
-    registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+    registryUrl: 'https://pr-check-774-alpine-che-plugin-registry.surge.sh/v3'
 commands:
   - name: build
     actions:

@@ -12,12 +12,12 @@ components:
   -
     type: chePlugin
     id: redhat-developer/che-omnisharp-plugin/latest
-    registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+    registryUrl: 'https://pr-check-774-alpine-che-plugin-registry.surge.sh/v3'
     # memoryLimit: 1024Mi
   -
     type: chePlugin
     id: redhat-developer/netcoredbg-theia-plugin/latest
-    registryUrl: 'https://raw.githubusercontent.com/vitaliy-guliy/plugin-registry-with-resource-limitations/master/v3'
+    registryUrl: 'https://pr-check-774-alpine-che-plugin-registry.surge.sh/v3'
     # memoryLimit: 512Mi
   -
     type: dockerimage
